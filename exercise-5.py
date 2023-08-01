@@ -11,7 +11,7 @@ def reverse_ascending(numbers):
             start = n
 
     return result + numbers[start:][::-1]
-
+11111
 
 # assert list(reverse_ascending([1, 2, 3, 4, 5])) == [5, 4, 3, 2, 1]
 # assert list(reverse_ascending([5, 7, 10, 4, 2, 7, 8, 1, 3])) == [
